@@ -57,6 +57,7 @@ c--;
 // 같음
 Console.WriteLine(a == b);
 
+
 // 다름
 Console.WriteLine(a != b);
 
@@ -82,3 +83,83 @@ c -= b;
 c *= b;
 c /= b;
 c %= b;
+
+// 논리 연산자
+// 논리형의 피연산자들을 대상으러 연산을 수행
+// or, and, xor, not
+// =============================================
+
+Console.WriteLine("====논리연산자====");
+bool A = true;
+bool B = false;
+
+// or 
+// A 또 B 둘중 하나라도 true 이면 true 반환, 나머지 경우 false 반환
+Console.WriteLine(A | B);
+
+// and 
+// A 와 B 둘다 true 이면 True 반환, 나머지 경우 false 반환
+Console.WriteLine(A & B);
+
+// xor
+//  A 또 B 둘중 하나만 true 이면 true 반환, 나머지 경우 false 반환
+Console.WriteLine(A ^ B);
+
+// not 
+// 피연산자가 true 면 false, false 면 true 반환
+Console.WriteLine(!A);
+
+// 조건부 논리연산자
+// Conditional or , Conditional and
+//==========================================================
+
+// Conditional or
+// A가 true 일 경우 B를 읽지 않고 true 반환 
+Console.WriteLine(A || B);
+
+// Conditional and
+// A가 false 일 경우 B를 읽지 않고 false 반환 
+Console.WriteLine(A && B);
+
+// 비트 연산자
+// 정수형에 대해서만 연산을 수행함
+// ==========================================================
+
+// or
+Console.WriteLine(a | b);
+// a == 14 == 2^3 + 2^2 + 2^1 == ...00001110
+// b == 6 ==        2^2 + 2^1 == ...00000110
+// result                      == ...00001110 == 14
+
+// and
+Console.WriteLine(a & b);
+// a == 14 == 2^3 + 2^2 + 2^1 == ...00001110
+// b == 6 ==        2^2 + 2^1 == ...00000110
+// result                      == ...00000110 == 6
+
+// xor
+Console.WriteLine(a ^ b);
+// a == 14 == 2^3 + 2^2 + 2^1 == ...00001110
+// b == 6 ==        2^2 + 2^1 == ...00000110
+// result                      == ...00001000 == 8
+
+// not
+Console.WriteLine(~a);
+// a == 14 == 2^3 + 2^2 + 2^1  == 00000000 00000000 00000000 00001110
+// result                      == 11111111 11111111 11111111 11110001 
+// 2의 보수                    == 11111111 11111111 11111111 11110010 == -14
+// 2의 보수의 2의 보수          == 00000000 00000000 00000000 00001110
+
+// 2의 보수 : 이진법에서 모든 자릿수를 반전하고 +1
+Console.WriteLine(a);
+Console.WriteLine(-a); // -a = ~a + 1
+
+// shift - left
+Console.WriteLine(a << 1);
+// a == 14 == 2^3 + 2^2 + 2^1  == 00000000 00000000 00000000 00001110
+// result ==                   == 00000000 00000000 00000000 00011100 == 28
+
+// shift - right
+Console.WriteLine(a >> 2);
+// a == 14 == 2^3 + 2^2 + 2^1  == 00000000 00000000 00000000 00001110
+// result ==                   == 00000000 00000000 00000000 00000011 == 3
