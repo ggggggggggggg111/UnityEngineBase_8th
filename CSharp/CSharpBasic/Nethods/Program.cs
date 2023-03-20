@@ -8,8 +8,37 @@
 //      return 반환값;
 //}
 
-int Sum(int a,int b)
+int Sum(int a, int b)
 {
-    return a + b;
+    //지역변수
+    // 중괄호 내에서 선언되고 해당 괄호내에서만 접근이 가능 (벗어나면 메모리 해제되는 변수)
+    //매개변수 ⊂ 지역변수
+    int result = a + b;
+    PrintInt(result);
+    return result;
 }
+
+
+//void
+//반환 타입이 없을때 사용
+void PrintHi()
+{
+    Console.WriteLine("Hi");
+    /*return;*/
+}
+
+void PrintInt(int value)
+{
+    Console.WriteLine(value);
+}
+
+#region Main
+
+//함수 호출 형태
+//함수이름 (인자1,인자2...);
+int result = Sum(1, 2);
+Console.WriteLine(result);
+Sum(3, 3);
+
+#endregion
 
