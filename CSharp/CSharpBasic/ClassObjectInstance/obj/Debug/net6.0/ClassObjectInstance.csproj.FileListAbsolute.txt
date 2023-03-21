@@ -1,0 +1,15 @@
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\bin\Debug\net6.0\ClassObjectInstance.exe
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\bin\Debug\net6.0\ClassObjectInstance.deps.json
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\bin\Debug\net6.0\ClassObjectInstance.runtimeconfig.json
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\bin\Debug\net6.0\ClassObjectInstance.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\bin\Debug\net6.0\ClassObjectInstance.pdb
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.csproj.AssemblyReference.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.AssemblyInfoInputs.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.AssemblyInfo.cs
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.csproj.CoreCompileInputs.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\obj\Debug\net6.0\refint\ClassObjectInstance.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.pdb
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\obj\Debug\net6.0\ClassObjectInstance.genruntimeconfig.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\ClassObjectInstance\obj\Debug\net6.0\ref\ClassObjectInstance.dll
