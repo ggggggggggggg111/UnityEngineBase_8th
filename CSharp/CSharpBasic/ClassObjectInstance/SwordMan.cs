@@ -4,6 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//namespace
+//이름으로 메모리 공간을 식별하기위한 키워드
+// 일반적인 namespace 작명 : 팀/회사 이름.기술스택이름.세부카테고리
+namespace ClassObjectInstance.UISystems.Characters
+{
+    internal class SwordMan
+    {
+
+    }
+}
+
 namespace ClassObjectInstance
 {
     // 클래스
@@ -28,7 +40,7 @@ namespace ClassObjectInstance
         // 해당 클래스타입의 객체를 힙영역에 할당하고 해당 객체의 참조를 반환
         public SwordMan() 
         { 
-
+            
         }
 
         //소멸자
