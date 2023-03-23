@@ -1,0 +1,15 @@
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\bin\Debug\net6.0\Statement_SwitchAndEnum.exe
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\bin\Debug\net6.0\Statement_SwitchAndEnum.deps.json
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\bin\Debug\net6.0\Statement_SwitchAndEnum.runtimeconfig.json
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\bin\Debug\net6.0\Statement_SwitchAndEnum.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\bin\Debug\net6.0\Statement_SwitchAndEnum.pdb
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\obj\Debug\net6.0\Statement_SwitchAndEnum.csproj.AssemblyReference.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\obj\Debug\net6.0\Statement_SwitchAndEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\obj\Debug\net6.0\Statement_SwitchAndEnum.AssemblyInfoInputs.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\obj\Debug\net6.0\Statement_SwitchAndEnum.AssemblyInfo.cs
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\obj\Debug\net6.0\Statement_SwitchAndEnum.csproj.CoreCompileInputs.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\obj\Debug\net6.0\Statement_SwitchAndEnum.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\obj\Debug\net6.0\refint\Statement_SwitchAndEnum.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\obj\Debug\net6.0\Statement_SwitchAndEnum.pdb
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\obj\Debug\net6.0\Statement_SwitchAndEnum.genruntimeconfig.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_SwitchAndEnum\obj\Debug\net6.0\ref\Statement_SwitchAndEnum.dll

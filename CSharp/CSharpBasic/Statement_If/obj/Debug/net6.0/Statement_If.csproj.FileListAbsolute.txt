@@ -1,0 +1,15 @@
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\bin\Debug\net6.0\Statement_If.exe
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\bin\Debug\net6.0\Statement_If.deps.json
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\bin\Debug\net6.0\Statement_If.runtimeconfig.json
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\bin\Debug\net6.0\Statement_If.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\bin\Debug\net6.0\Statement_If.pdb
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\obj\Debug\net6.0\Statement_If.csproj.AssemblyReference.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\obj\Debug\net6.0\Statement_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\obj\Debug\net6.0\Statement_If.AssemblyInfoInputs.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\obj\Debug\net6.0\Statement_If.AssemblyInfo.cs
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\obj\Debug\net6.0\Statement_If.csproj.CoreCompileInputs.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\obj\Debug\net6.0\Statement_If.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\obj\Debug\net6.0\refint\Statement_If.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\obj\Debug\net6.0\Statement_If.pdb
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\obj\Debug\net6.0\Statement_If.genruntimeconfig.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Statement_If\obj\Debug\net6.0\ref\Statement_If.dll
