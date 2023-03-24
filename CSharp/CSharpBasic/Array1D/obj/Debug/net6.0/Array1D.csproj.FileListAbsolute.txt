@@ -1,0 +1,15 @@
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\bin\Debug\net6.0\Array1D.exe
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\bin\Debug\net6.0\Array1D.deps.json
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\bin\Debug\net6.0\Array1D.runtimeconfig.json
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\bin\Debug\net6.0\Array1D.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\bin\Debug\net6.0\Array1D.pdb
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\obj\Debug\net6.0\Array1D.csproj.AssemblyReference.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\obj\Debug\net6.0\Array1D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\obj\Debug\net6.0\Array1D.AssemblyInfoInputs.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\obj\Debug\net6.0\Array1D.AssemblyInfo.cs
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\obj\Debug\net6.0\Array1D.csproj.CoreCompileInputs.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\obj\Debug\net6.0\Array1D.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\obj\Debug\net6.0\refint\Array1D.dll
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\obj\Debug\net6.0\Array1D.pdb
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\obj\Debug\net6.0\Array1D.genruntimeconfig.cache
+C:\Users\bjh01\OneDrive\문서\UnityEngineBase_8th\CSharp\CSharpBasic\Array1D\obj\Debug\net6.0\ref\Array1D.dll
