@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bjh01\\OneDrive\\문서\\UnityEngineBase_8th\\CSharp\\CSharpBasic\\Structure\\Structure.csproj": {}
+    "C:\\Users\\bjh01\\OneDrive\\문서\\GitHub\\UnityEngineBase_8th\\CSharp\\CSharpBasic\\Structure\\Structure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bjh01\\OneDrive\\문서\\UnityEngineBase_8th\\CSharp\\CSharpBasic\\Structure\\Structure.csproj": {
+    "C:\\Users\\bjh01\\OneDrive\\문서\\GitHub\\UnityEngineBase_8th\\CSharp\\CSharpBasic\\Structure\\Structure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bjh01\\OneDrive\\문서\\UnityEngineBase_8th\\CSharp\\CSharpBasic\\Structure\\Structure.csproj",
+        "projectUniqueName": "C:\\Users\\bjh01\\OneDrive\\문서\\GitHub\\UnityEngineBase_8th\\CSharp\\CSharpBasic\\Structure\\Structure.csproj",
         "projectName": "Structure",
-        "projectPath": "C:\\Users\\bjh01\\OneDrive\\문서\\UnityEngineBase_8th\\CSharp\\CSharpBasic\\Structure\\Structure.csproj",
+        "projectPath": "C:\\Users\\bjh01\\OneDrive\\문서\\GitHub\\UnityEngineBase_8th\\CSharp\\CSharpBasic\\Structure\\Structure.csproj",
         "packagesPath": "C:\\Users\\bjh01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bjh01\\OneDrive\\문서\\UnityEngineBase_8th\\CSharp\\CSharpBasic\\Structure\\obj\\",
+        "outputPath": "C:\\Users\\bjh01\\OneDrive\\문서\\GitHub\\UnityEngineBase_8th\\CSharp\\CSharpBasic\\Structure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
