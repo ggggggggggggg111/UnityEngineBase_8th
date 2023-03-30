@@ -65,7 +65,7 @@ void MoveLeft()
     // 맵 경계를 벗어나지 않는지 체크
     if (x <=0)
     {
-        Console.WriteLine("오른쪽 이동 실패. 맵 경계를 벗어남");
+        Console.WriteLine("왼쪽 이동 실패. 맵 경계를 벗어남");
         return;
     }
 
@@ -87,7 +87,7 @@ void MoveUp()
     // 맵 경계를 벗어나지 않는지 체크
     if (y <= 0)
     {
-        Console.WriteLine("오른쪽 이동 실패. 맵 경계를 벗어남");
+        Console.WriteLine("위쪽 이동 실패. 맵 경계를 벗어남");
         return;
     }
 
@@ -109,7 +109,7 @@ void MoveDown()
     // 맵 경계를 벗어나지 않는지 체크
     if (y >= map.GetLength(0) - 1)
     {
-        Console.WriteLine("오른쪽 이동 실패. 맵 경계를 벗어남");
+        Console.WriteLine("아래쪽 이동 실패. 맵 경계를 벗어남");
         return;
     }
 
