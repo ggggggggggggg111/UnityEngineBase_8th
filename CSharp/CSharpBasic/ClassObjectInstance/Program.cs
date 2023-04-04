@@ -1,18 +1,21 @@
-﻿// using 키워드
+﻿// using 키워드 
 // namespace 를가져다 쓰기위함
+
 using ClassObjectInstance;
 
-//new  키워드
-//동적할당키워드
+
+// new 키워드 
+// 동적할당키워드 
+
 SwordMan swordMan1 = new SwordMan();
 SwordMan swordMan2 = new SwordMan();
 int a = 3;
 
 
-// . 멤버접근자 연산자
-swordMan1.Name = "타락파워짱짱맨";
+// . 멤버접근연산자
+swordMan1.Name = "타락파워전사짱짱";
 swordMan1.Lv = 1;
-swordMan1.Exp = 10.1f;
+swordMan1.Exp = 1.0f;
 
 swordMan2.Name = "똠양꿍";
 swordMan2.Lv = 2;
@@ -29,22 +32,22 @@ Human human3 = new Human();
 
 human1.Name = "김아무개";
 human1.Age = 216;
-human1.Cm = 123.1f;
-human1.Kg = 300.0;
-human1.Had = false;
+human1.Height = 123.1f;
+human1.Weight = 300.0;
+human1.IsAvailable = false;
 
 human2.Name = "이아무개";
 human2.Age = 39;
-human2.Cm = 323.5f;
-human2.Kg = 232.2;
-human2.Had = true;
+human2.Height = 323.5f;
+human2.Weight = 232.2;
+human2.IsAvailable = true;
 
 human3.Name = "최아무개";
 human3.Age = 142;
-human3.Cm = 53.1f;
-human3.Kg = 144.4;
-human3.Had = true;
+human3.Height = 53.1f;
+human3.Weight = 144.4;
+human3.IsAvailable = true;
 
-human1.PR();
-human2.PR();
-human3.PR();
+human1.PrintInfo();
+human2.PrintInfo();
+human3.PrintInfo();

@@ -10,18 +10,13 @@ namespace ClassObjectInstance
     {
         public string Name;
         public int Age;
-        public float Cm;
-        public double Kg;
-        public bool Had;
+        public float Height;
+        public double Weight;
+        public bool IsAvailable;
 
-        public Human()
+        public void PrintInfo()
         {
-
-        }
-
-        public void PR()
-        {
-            Console.WriteLine($"{this.Name}씨는 나이가 {this.Age}살, 키가 {this.Cm}cm, 몸무게가 {this.Kg}KG,  {this.Had}");
+            Console.WriteLine($"{Name}, {Age}, {Height}, {Weight}, {IsAvailable}");
         }
     }
 }

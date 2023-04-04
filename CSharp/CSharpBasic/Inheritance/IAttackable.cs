@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Statement_SwitchAndEnum
+namespace Inheritance
 {
-    public class Player
+    internal interface IAttackable
     {
-        public int Layer;
+        int AttackPower { get; }
+        void Attack(IDamageable target);
     }
 }

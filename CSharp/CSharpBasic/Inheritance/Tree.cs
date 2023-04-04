@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Statement_SwitchAndEnum
+namespace Inheritance
 {
-    public class Player
+    internal class Tree : Resource
     {
-        public int Layer;
     }
 }
