@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -24,20 +25,32 @@ namespace Collections
             }
         }
 
+        public object this[int index]
+        {
+            get
+            {
+                return _data[index];
+            }
+            set
+            {
+                _data[index] = value;
+            }
+        }
+
         private const int DEFAULT_SIZE = 1;
-        private int[] _data = new int[DEFAULT_SIZE];
+        private object[] _data = new object[DEFAULT_SIZE];
         private int _count;
 
         // 삽입 알고리즘
         // 일반적인 경우에 O(1)
         // 공간이 모자랄 경우에 기존 데이터를 전부 순회하면서 복제해야하기때문에 O(N)
-        public void Add(int item)
+        public void Add(object item)
         {
             // 삽입 공간이 모자랄 경우
             if (_count >= _data.Length)
             {
                 //1. 더큰 크기의 새로운 배열을 만든다.                
-                int[] tmp = new int[_data.Length + (int)Math.Ceiling(Math.Log10(_data.Length)) + DEFAULT_SIZE];
+                object[] tmp = new object[_data.Length + (int)Math.Ceiling(Math.Log10(_data.Length)) + DEFAULT_SIZE];
 
                 //2. 기존 데이터를 복제한다.
                 for (int i = 0; i < _count; i++)
@@ -56,7 +69,7 @@ namespace Collections
 
         // 탐색 알고리즘
         // O(N)
-        public bool Contains(int item)
+        public bool Contains(object item)
         {
             for (int i = 0; i < _count; i++)
             {
@@ -67,7 +80,7 @@ namespace Collections
             return false;
         }
 
-        public int FindIndex(int item)
+        public int FindIndex(object item)
         {
             for (int i = 0; i < _count; i++)
             {
@@ -76,6 +89,17 @@ namespace Collections
             }
 
             return -1;
+        }
+
+        public object Find(Predicate<object> match)
+        {
+            for (int i = 0; i < _count; i++)
+            {
+                if (match.Invoke(_data[i]))
+                    return _data[i];
+            }
+
+            return null;
         }
 
         // 삭제 알고리즘
@@ -91,7 +115,7 @@ namespace Collections
             _data[_count] = default(int);
         }
 
-        public bool Remove(int item)
+        public bool Remove(object item)
         {
             int index = FindIndex(item);
 
